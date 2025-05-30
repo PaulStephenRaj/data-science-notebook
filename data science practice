@@ -1,0 +1,169 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "fd28dca4-539b-4588-8c69-29857f1b81ef",
+   "metadata": {},
+   "source": [
+    "Data Science Tools and Ecosystem"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "e84c5673-8956-48c0-9748-1b245601bf65",
+   "metadata": {},
+   "source": [
+    "# In this notebook, Data Science Tools and Ecosystem are summarized."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0fb49090-9450-41f5-be50-b3dbffab2d74",
+   "metadata": {},
+   "source": [
+    "**Objectives:**\r\n",
+    "\r\n",
+    "- List popular languages for Data Science\r\n",
+    "- Introduce commonly used libraries in Data Science\r\n",
+    "- Demonstrate basic arithmetic operations in Python\r\n",
+    "- Convert minutes to hours using Python\r\n",
+    "- Present Data Science tools in a table format\r\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "30b0617e-2ea8-416a-908b-43849f47019e",
+   "metadata": {},
+   "source": [
+    "Some of the popular languages that Data Scientists use are:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "7548a8d0-88ac-414e-814b-bf1e71cc1c86",
+   "metadata": {},
+   "source": [
+    "1. Python\n",
+    "2. R\n",
+    "3. SQL\n",
+    "4. JavaScript"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0c10d69f-bdb9-4125-8f51-a2ec766c2f87",
+   "metadata": {},
+   "source": [
+    "Some of the commonly used libraries used by Data Scientists include:\n",
+    "\n",
+    "1. NumPy\n",
+    "2. Pandas\n",
+    "3. Matplotlib\n",
+    "4. Scikit-learn\n",
+    "5. TensorFlow\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "c2943184-76a3-4f93-9f21-8c2b1945fd3c",
+   "metadata": {},
+   "source": [
+    "| Data Science Tools         |\r\n",
+    "|----------------------------|\r\n",
+    "| Jupyter Notebook           |\r\n",
+    "| RStudio                    |\r\n",
+    "| Visual Studio Code (VS Code) |\r\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "f0d83b85-3310-412e-9db8-22caaa9d683d",
+   "metadata": {},
+   "source": [
+    "### Below are a few examples of evaluating arithmetic expressions in Python.\r\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "e1df8155-c05f-49bc-9efa-b9c0bb10bcbb",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "17"
+      ]
+     },
+     "execution_count": 2,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "\n",
+    "(3 * 4) + 5\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "f481e983-64fb-4f7b-aa35-735bac2f5f7d",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "3.3333333333333335"
+      ]
+     },
+     "execution_count": 3,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "200 / 60"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "dc8ed0c6-abda-4518-858b-2b6c1d774393",
+   "metadata": {},
+   "source": [
+    "## Author\r\n",
+    "\r\n",
+    "Paul Stephen Raj S\r\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "60f57ba3-0cda-41c1-a21a-87f52e80c51b",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "anaconda-panel-2023.05-py310",
+   "language": "python",
+   "name": "conda-env-anaconda-panel-2023.05-py310-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.5"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
